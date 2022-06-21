@@ -1,0 +1,10 @@
+ext.versions = [
+
+        compileSdk  : 32,
+        minSdk      : 23,
+        targetSdk   : 32,
+        versionCode : 1,
+        versionName :"1.0",
+
+        coroutines: "1.5.1"
+]
